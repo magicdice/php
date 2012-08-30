@@ -6,11 +6,10 @@
  * current monitoring supported commands are fairly basic. 
  * There are plans to include more set of commands in the next release.
  *
- * BigTent Design, Inc.
  *
- * @category   BigTent
+ * @category   PHP
  * @package    GearmanTelnet
- * @copyright  Copyright (c) 2009 BigTent Design, Inc. (http://www.bigtent.com)
+ * @copyright  Copyright (c) 2012 Patrick Reilly (http://www.facebook.com/preilly)
  * @version    $Id: GearmanTelnet.php 16541 2009-10-12 06:59:03Z preilly $
  */
 class GearmanTelnet {
