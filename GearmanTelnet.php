@@ -18,6 +18,11 @@
 /**
  * A class that contains seperated and aggragated workers and status data from all gearman server in a cluster
  * @author liorbk
+ * @author preilly@php.net
+ * @category   PHP
+ * @package    GearmanTelnet
+ * @copyright  Copyright (c) 2013 Patrick Reilly (http://www.facebook.com/preilly)
+ * @version    $Id: GearmanTelnet.php 16541 2013-02-31 06:59:03Z preilly $
  *
  */
 class GearmanClusterAdmin
